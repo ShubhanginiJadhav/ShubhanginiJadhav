@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## ☕ Support Me
 <p align="center">
-  <a href="https://www.buymeacoffee.com/Shubhangini J" target="_blank">
+  <a href="https://www.buymeacoffee.com/shubhanginij" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
   </a>
 </p>
